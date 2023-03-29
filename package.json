@@ -3,7 +3,8 @@
   "version": "1.78.0",
   "distro": "f2b77191fb66fe38026a11ba5a5e2e9debeda960",
   "author": {
-    "name": "Microsoft Corporation"
+    "name": "Microsoft Corporation",
+    "name": " 1"
   },
   "license": "MIT",
   "main": "./out/main",
